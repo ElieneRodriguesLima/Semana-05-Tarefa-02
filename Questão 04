@@ -1,0 +1,4 @@
+for bug in range(99, 0, -11):
+    print(f'{bug}bugs no sofware, pegue onze deles e conserte...Tecle Crl+F5')
+
+    print('Sem erros no software! Está estabilizado!')
